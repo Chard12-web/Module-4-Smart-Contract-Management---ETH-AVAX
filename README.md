@@ -44,7 +44,21 @@ function redeem(uint256 amount) external {
     emit Redeem(msg.sender, amount);
 }
 ```
-Deployment
+## Deployment
+
 The contract is deployed with an initial supply of 1,000,000 tokens to the contract deployer.
 
-License
+## License
+
+This project is licensed under the terms of the MIT license. 
+
+```javascript
+This README.md provides an overview of the DegenToken smart contract, its features, usage instructions, deployment details, and licensing information.
+````
+
+## Author
+
+Richard Pelarios BSIT
+@Chard-web
+
+
